@@ -1,4 +1,13 @@
-## Hi there 👋
+
+## Checkout my some of the stuff I made
+
+### Advent of Code Dashboard
+Check out my progress tracking dashboard for Advent of Code 
+[vghost-26.github.io/advent-of-code-2025](https://vghost-26.github.io/advent-of-code-2025/)  
+
+### Movie Calendar
+[**Live: https://movie-calendar-2-0.vercel.app**](https://movie-calendar-2-0.vercel.app/)
+[**Repo: https://vghost-26/Movie-Calendar-2.0**](https://vghost-26/Movie-Calendar-2.0)
 
 <!--
 **VgHost-26/VgHost-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
