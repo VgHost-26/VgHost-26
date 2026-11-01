@@ -1,15 +1,12 @@
 
-## Checkout my some of the stuff I made
+## Check out some of the stuff I made
 
-### Advent of Code Dashboard
-Check out my progress tracking dashboard for Advent of Code 
+| **Advent of Code Dashboard**                                                              | Movie Calendar                         |
+| ----------------------------------------------------------------------------------------- | -------------------------------------- |
+| ![[Advent of Code Dashboard 2025.png]]                                                    | ![[movie-calendar_2.png]] |
+[vghost-26.github.io/advent-of-code-2025](https://vghost-26.github.io/advent-of-code-2025/) | [**https://movie-calendar-2-0.vercel.app**](https://movie-calendar-2-0.vercel.app/) 
+| Progress tracking dashboard for my solutions in Advent of Code with speed benchmark stats | Movie premier tracker to save interesting tittles dates |
 
-[vghost-26.github.io/advent-of-code-2025](https://vghost-26.github.io/advent-of-code-2025/)  
-
-### Movie Calendar
-[**Live: https://movie-calendar-2-0.vercel.app**](https://movie-calendar-2-0.vercel.app/)
-
-[**Repo: https://vghost-26/Movie-Calendar-2.0**](https://vghost-26/Movie-Calendar-2.0)
 
 <!--
 **VgHost-26/VgHost-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
