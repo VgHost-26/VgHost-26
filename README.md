@@ -3,7 +3,7 @@
 
 | **Advent of Code Dashboard**                                                              | Movie Calendar                         |
 | ----------------------------------------------------------------------------------------- | -------------------------------------- |
-| ![Advent of Code Dashboard](Advent_of_Code_Dashboard.png)                            | ![Movie Calendar 2.0](movie-calendar_2.png) |
+| [![Advent of Code Dashboard](Advent_of_Code_Dashboard.png)](https://vghost-26.github.io/advent-of-code-2025/)                            | [![Movie Calendar 2.0](movie-calendar_2.png)](https://movie-calendar-2-0.vercel.app/) |
 [vghost-26.github.io/advent-of-code-2025](https://vghost-26.github.io/advent-of-code-2025/) | [**https://movie-calendar-2-0.vercel.app**](https://movie-calendar-2-0.vercel.app/) 
 | Progress tracking dashboard for my solutions in Advent of Code with speed benchmark stats | Movie premier tracker to save interesting tittles dates |
 
